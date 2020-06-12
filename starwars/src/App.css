@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: rgba(85, 85, 85, 0.5);
+  font-family: 'Audiowide', cursive;
 }
 .Header {
   color: #443e3e;
