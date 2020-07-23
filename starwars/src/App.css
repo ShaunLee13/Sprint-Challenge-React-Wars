@@ -1,8 +1,16 @@
 .App {
   text-align: center;
+  background-color: rgba(85, 85, 85, 0.5);
+  font-family: 'Audiowide', cursive;
 }
 .Header {
   color: #443e3e;
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+.Character-card {
+  background-color: rgba(14, 14, 14, 0.25);
+  margin: 10px auto;
+  color:whitesmoke;
+  padding-top: 5px;
+}
